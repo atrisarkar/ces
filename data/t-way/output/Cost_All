@@ -1,0 +1,29 @@
+Cost of exp for Apache :545.9855746388864 Size :84 ;Fault :7.2185246037326; Corr:0.9893935
+Cost of weiss for apache  :541.7734640536416 Size :60,; Corr:0.9773971
+Cost of exp for Apache :626.0330196439008 Size :29; Corr:0.9822288
+
+Cost of exp for BC :10768 Size :166 ;Fault : 12.7186066866051; Corr:0.9205484 #freq
+Cost of power for bc  :11334.73 Size :395; Corr:0.9046316 #3-way
+Cost of exp for BC :61294 Size :73; Corr:0.8574370 #2-way
+
+Cost of exp for BJ :231.8 Size :65 ;Fault :2.78587594959276; Corr:0.9728104
+Cost of power for bj  :431.6667 Size :73; Corr:0.9451345
+Cost of exp for BJ :452.8 Size :31; Corr:0.8940940
+
+Cost of power for LLVM :1642.081 Size :163; Fault :4.333244; Corr:0.9244998
+Cost of weiss for llvm  :2144.747 Size :8; Corr:0.044374533
+Cost of exp for LLVM :NA; Corr:
+
+Cost of exp for SQL :6339.543 ;Size :709; Fault :3.71419077005175; Corr:0.9333305
+Cost of exp for SQL :NA; Corr:
+Cost of exp for SQL :NA; Corr:
+
+Cost of power for x264 :903.1142 Size :364 ;Fault :1.403943; Corr:0.9707095
+Cost of exp for x264 : 2704.04 Size :89; Corr:0.9676313
+Cost of exp for x264 :2757.2 Size :50; Corr:0.9435734
+
+
+
+sunday : ta
+monday : paper review
+tuesday,wednesday : prepare presentation

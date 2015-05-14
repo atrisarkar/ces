@@ -1,0 +1,40 @@
+exp
+29.08468
+73.04192
+31.55235
+NaN
+NA
+49.72665
+
+log
+1607.776
+85449.64
+780.1506
+-53.47656
+NA
+7556.291
+
+power
+93.94431
+844.2714
+86.98785
+NaN
+NA
+330.3834
+
+weiss
+90.87111
+756.6384
+63.17811
+NaN
+NA
+201.3967
+
+N* Size values  are ordered in the form of apache,bc,bj,llvm,sql,x264
+Cost of exp for Apache :626.0330196439008 Size :29 ; newcost:764.1481 newsize:26.23405
+Cost of exp for BC :61294 Size :73 ; newcost:69572.43 size:68.34946
+Cost of exp for BJ :452.8 Size :31 ; newcost:818.3944 size:28.1972
+Cost of exp for LLVM :NA 
+Cost of exp for SQL :newsize:96.86595;newcost:2470.232
+Cost of exp for x264 :2757.2 Size :50 ; newcost:2798.535 size:45.66764
+

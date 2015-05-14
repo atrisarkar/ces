@@ -1,0 +1,41 @@
+exp
+60.39925
+127.9504
+52.60747
+512.7416
+NA
+89.13459
+
+log
+1191.643
+79382.52
+735.8688
+0.2800313
+NA
+6426.908
+
+power
+93.94431
+394.9988
+72.8793
+3.69927
+NA
+276.7795
+
+
+weiss
+91.57251
+892.8395
+73.81166
+8.057952
+NA
+223.9224
+
+
+N* Size values  are ordered in the form of apache,bc,bj,llvm,sql,x264
+Cost of weiss for apache  :541.7734640536416 Size :60; newcost:610.1973 size:64.45865
+Cost of power for bc  :11334.73 Size :395; newcost:11212.64 size:294.7464
+Cost of power for bj  :431.6667 Size :73; newcost:6102.181 size:51.09044
+Cost of weiss for llvm  :2144.747 Size :8 newcpst:2082.703, size:5.404939
+Cost of exp for SQL :newsize:145.114,newcost:1697.105
+Cost of exp for x264 : 2704.04 Size :89 ; newcost:2803.592 size:80
